@@ -113,9 +113,12 @@ body,html{
     margin-right: 30px; 
     margin-top: 40px;
 }
+#downloadcv{
+    text-decoration: none;
+}
 .info .btn:hover{
     background-color:var(--hover);
-    transform: scale(1.08);
+    /* transform: scale(1.08); */
 }
 .social a{
     color: var(--text);
